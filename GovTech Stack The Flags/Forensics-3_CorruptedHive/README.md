@@ -2,7 +2,7 @@
 
 ![STF_banner](https://user-images.githubusercontent.com/15940750/101498423-0b7d1300-39a7-11eb-8258-6e0c48625570.png)
 ## Corrupted Hive
----
+
 ### Category: Forensics
 ![1](https://user-images.githubusercontent.com/15940750/101498399-061fc880-39a7-11eb-8158-b622cfcd4368.png)
 
